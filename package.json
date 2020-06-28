@@ -1,0 +1,18 @@
+{
+  "name": "express-i18n",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Carvalho, Vinicius Luiz <carvalho.viniciusluiz@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start:dev": "nodemon"
+  },
+  "dependencies": {
+    "accept-language": "^3.0.18",
+    "express": "^4.17.1",
+    "i18next": "^19.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
